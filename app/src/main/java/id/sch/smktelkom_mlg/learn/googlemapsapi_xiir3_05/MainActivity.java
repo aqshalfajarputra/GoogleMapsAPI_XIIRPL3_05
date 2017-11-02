@@ -29,3 +29,4 @@ public class MainActivity extends AppCompatActivity implements OnStreetViewPanor
         panorama.animateTo(camera, 10000);
     }
 }
+
